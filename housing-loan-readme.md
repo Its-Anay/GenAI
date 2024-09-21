@@ -8,21 +8,7 @@ This project implements a Python-based housing loan model that calculates EMI (E
 - Generate a complete amortization schedule
 - Visualize EMI breakdown with a stacked bar chart
 - Calculate interest lost on early loan closure
-
-## Requirements
-
-- Python 3.6+
-- NumPy
-- Matplotlib
-
-## Installation
-
-1. Clone this repository or download the source code.
-2. Install the required dependencies:
-
-```
-pip install numpy matplotlib
-```
+  
 
 ## Usage
 
